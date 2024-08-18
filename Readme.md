@@ -2,14 +2,17 @@
 This project provides a tool to detect and blur faces in images, videos, or in real-time using a webcam. The script uses OpenCV and Mediapipe's face detection model to process the media and anonymize detected faces.
 
 ## Features
-### Image Processing: Detects and blurs faces in an image.
-### Video Processing: Detects and blurs faces frame-by-frame in a video.
-### Real-Time Webcam Processing: Detects and blurs faces in real-time from the webcam feed.
+#### Image Processing: Detects and blurs faces in an image.
+#### Video Processing: Detects and blurs faces frame-by-frame in a video.
+#### Real-Time Webcam Processing: Detects and blurs faces in real-time from the webcam feed.
 
 ## Requirements
 Python 3.6+
+
 OpenCV
+
 Mediapipe
+
 argparse
 
 ## Installation
